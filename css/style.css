@@ -67,7 +67,7 @@ body{
     max-width: 100%;
     height: auto;
      display: flex;
-    padding: 45px 90px 10px 1000px;
+    padding: 102px 5px 0px 1000px;
 }
 
 #h3a {
@@ -90,14 +90,14 @@ body{
     max-width: 100%;
     height: auto;
     display: flex;
-    padding: 1500px 90px 10px 200px;
+    padding: 800px 90px 10px 50px;
 }
 
 #h3b {
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 120px 120px;
     font-size: 50px;
-    margin-top: -800px;
+    margin-top: -700px;
   color: white;
 }
 
